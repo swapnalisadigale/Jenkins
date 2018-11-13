@@ -1,2 +1,2 @@
-hello_exec: hello.c
-	gcc hello.c -o hello_exec
+hello_exec: code1.c
+	gcc code1.c -o hello_exec
