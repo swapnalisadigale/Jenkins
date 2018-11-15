@@ -1,2 +1,5 @@
-hello_exec: code1.c hello.c
-	gcc -o hello_exec code1.c hello.c
+all:
+	gcc -o pro hello.c function.c
+
+clean:
+	rm -rf *o pro
