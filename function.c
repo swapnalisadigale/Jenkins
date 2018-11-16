@@ -5,9 +5,8 @@ void Hello_world(void)
   printf("Hello World");
 }
 
-int Sum_numbers(int a,int b)
+void Value(char a,char b)
 {
-  int sum = 0;
-  sum = a+b;
-  return sum;
+  printf("value of a is = %s\n", a);
+  printf("value of b is = %s\n", b);
 }
