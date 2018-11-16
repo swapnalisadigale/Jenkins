@@ -1,6 +1,6 @@
 #include <stdio.h>
 void Hello_world(void);
-int Values(char, char);
+int Values(int, int);
 
 int main (void)
 {
