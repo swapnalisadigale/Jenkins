@@ -4,6 +4,7 @@ void Values(char, char);
 
 int main (void)
 {
+  char a, b;
   int sum = 0;
   Hello_world();
   Values(a,b);
