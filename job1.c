@@ -2,6 +2,6 @@
 
 int main (void)
 {
-  printf("\n\nHi, I am JOB1\n\n");
+  printf("\n\nI am JOB1\n\n");
   return 0;
 }
