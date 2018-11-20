@@ -6,7 +6,7 @@ int main (void)
 {
   int sum = 0;
   Hello_world();
-  sum = Sum_numbers(15,20);
+  sum = Sum_numbers(8,20);
   printf("\nSum is %d\n", sum);
   return 0;
 }
