@@ -7,10 +7,12 @@
  if(argc<2)
  {
    printf("You didn't specify the arguments\n");
-   exit(1);
  }
+ else
+ {
  for (i=1; i< argc; i++) {
      printf("\narg%d=%s", i, argv[i]);
+   }
  }
 
  printf("\n");
