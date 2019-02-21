@@ -5,8 +5,8 @@ int Sum_numbers(int ,int );
 int main (void)
 {
   int sum = 0;
-  Hello_world();
-  sum = Sum_numbers(8,20);
-  printf("\nSum is %d\n", sum);
+  //Hello_world();
+  //sum = Sum_numbers(8,20);
+  printf("\nSum is\n");
   return 0;
 }
